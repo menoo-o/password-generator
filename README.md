@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1>A simple passwd generator made with react hooks: useState, useCallback, useEffect, useRef</h1>
+
 ## Available Scripts
 
 In the project directory, you can run:
